@@ -12,5 +12,5 @@ A small application to calculate how much you should withhold from employee payc
 
 ## Contributors
 
-- [Steven Mancine](https://github.com/itsnameisteven)
+- [Steven Mancine](https://github.com/itsnameissteven)
 
